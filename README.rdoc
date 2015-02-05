@@ -1,3 +1,16 @@
+
+
+Scaffold-demo
+Demo app for scaffolding
+
+`rails generate scaffold Post name:string title:string content:text`
+`rake db:migrate`
+
+
+Reference:
+
+http://guides.rubyonrails.org/getting_started.html#getting-up-and-running-quickly-with-scaffolding
+http://guides.rubyonrails.org/v3.2.13/getting_started.html#getting-up-and-running-quickly-with-scaffolding
 == README
 
 This README would normally document whatever steps are necessary to get the
